@@ -1,0 +1,199 @@
+[
+    {
+        "filterName": "TypeSafe",
+        "mainColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "isStandardFilter": false,
+        "useAdvancedColors": false,
+        "customTextColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "customBackgroundColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "searchList": [
+            {
+                "searchString": "TypeSafe",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Any",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "06b651d7-d990-45fe-8db9-e8e976547682"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "Log",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "328552c2-ed25-4dbc-a8e6-ab661a7bc6e7"
+                    }
+                ],
+                "name": null,
+                "isEnabled": true,
+                "collapsed": false,
+                "itemGUID": "bb5d631d-41be-4461-91a9-d4fa5fcfa627"
+            }
+        ],
+        "showInToolbar": true,
+        "hideWhenNoMatches": true,
+        "name": "TypeSafe",
+        "isEnabled": true,
+        "collapsed": true,
+        "itemGUID": "27d800db-5c64-4454-8f9f-ec83dbeb675c"
+    },
+    {
+        "filterName": "Suppressed",
+        "mainColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 0.609000027179718,
+            "a": 1.0
+        },
+        "isStandardFilter": false,
+        "useAdvancedColors": false,
+        "customTextColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "customBackgroundColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "searchList": [
+            {
+                "searchString": "GGCell.cs",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Warning",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "d7fa9ddf-b777-421d-9f69-0b6f4006599c"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "File",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "7f67e8e6-9ea3-4cd9-a529-6b5f4880fd98"
+                    }
+                ],
+                "name": null,
+                "isEnabled": true,
+                "collapsed": true,
+                "itemGUID": "f7e6641e-5b44-409b-9aa0-209e825095f4"
+            },
+            {
+                "searchString": "GGGrid.cs",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Warning",
+                        "name": "Untitled",
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "0a64f5df-7a54-419d-804b-81d9f70b35d6"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "File",
+                        "name": "Untitled",
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "a8fd687c-8bb6-4510-bbfc-16451ede097b"
+                    }
+                ],
+                "name": "Untitled",
+                "isEnabled": true,
+                "collapsed": true,
+                "itemGUID": "a8c56dc5-36df-4cb7-904c-a78ce18735ee"
+            },
+            {
+                "searchString": "GGObject.cs",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Warning",
+                        "name": "Untitled",
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "a4e15411-42b9-4f3d-ad17-c1861aed9c41"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "File",
+                        "name": "Untitled",
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "953c0520-a6b2-4c08-b11b-2329e81d079c"
+                    }
+                ],
+                "name": "Untitled",
+                "isEnabled": true,
+                "collapsed": true,
+                "itemGUID": "80c169ce-de01-4316-9d9c-3b8f1b15f2a2"
+            },
+            {
+                "searchString": "XmlDeserializer.cs",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Warning",
+                        "name": "Untitled",
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "90b8b310-0c82-4fb7-be9e-a5bdab284b82"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "File",
+                        "name": "Untitled",
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "40539abd-af7b-4a9e-a544-f4c67f7e438e"
+                    }
+                ],
+                "name": "Untitled",
+                "isEnabled": true,
+                "collapsed": true,
+                "itemGUID": "e2e8ebe3-31b0-481e-92cd-aef1ef2415ce"
+            }
+        ],
+        "showInToolbar": false,
+        "hideWhenNoMatches": false,
+        "name": "Suppressed",
+        "isEnabled": true,
+        "collapsed": false,
+        "itemGUID": "15dd65a2-9f16-4b10-ab45-7ea1514f1827"
+    }
+]

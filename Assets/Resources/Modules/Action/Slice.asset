@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe8687bcaf91a24459b35ae2b082cae5, type: 3}
+  m_Name: Slice
+  m_EditorClassIdentifier: 
+  m_inventoryHeight: 1
+  m_inventoryWidth: 1
+  m_name: Slice
+  m_moduleCost: 1
+  m_moduleIcon: {fileID: 0}
+  m_canEnemyTarget: 1
+  m_canFriendTarget: 0
+  m_canSelfTarget: 0
+  m_targetEffects:
+  - m_effectType: 0
+    m_effectStrength: 2
+    m_effectDuration: 0
+  m_userEffects: []
+  m_rangeValue: 1

@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: df8cc0dc252c8d648b06974bad3ad3af
+timeCreated: 1462032932
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: art_sprite_ui1_speech1
+    21300002: art_sprite_ui1_speech2
+    21300004: art_sprite_ui1_speechshout
+    21300006: art_sprite_ui1_speechflag
+    21300008: art_sprite_ui1_speech_thin_corner
+    21300010: art_sprite_ui1_speech_thin_rounded
+    21300012: art_sprite_ui1_speech_thin_shout
+    21300014: art_sprite_ui1_speech_thin_tail
+    21300016: art_sprite_ui1_speech_fat_corner
+    21300018: art_sprite_ui1_speech_fat_rounded
+    21300020: art_sprite_ui1_speech_fat_shout
+    21300022: art_sprite_ui1_speech_fat_tail
+    21300024: art_sprite_ui1_background_button
+    21300026: art_sprite_ui1_border_fat
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 512
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: art_sprite_ui1_speech_thin_corner
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1636
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline:
+      - - {x: -156, y: 156}
+        - {x: -156, y: -156}
+        - {x: 156, y: -156}
+        - {x: 156, y: 156}
+    - name: art_sprite_ui1_speech_thin_rounded
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1636
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 75, y: 75, z: 75, w: 75}
+      outline:
+      - - {x: 132, y: -140}
+        - {x: 146, y: -123}
+        - {x: 149, y: -118}
+        - {x: 155, y: -106}
+        - {x: 156, y: -100}
+        - {x: 156, y: 101}
+        - {x: 152, y: 111}
+        - {x: 146, y: 123}
+        - {x: 139, y: 132}
+        - {x: 127, y: 143}
+        - {x: 118, y: 149}
+        - {x: 111, y: 152}
+        - {x: 102, y: 156}
+        - {x: -101, y: 156}
+        - {x: -111, y: 152}
+        - {x: -123, y: 146}
+        - {x: -132, y: 139}
+        - {x: -146, y: 123}
+        - {x: -152, y: 111}
+        - {x: -154, y: 106}
+        - {x: -156, y: 100}
+        - {x: -156, y: -102}
+        - {x: -147, y: -123}
+        - {x: -132, y: -140}
+        - {x: -123, y: -146}
+        - {x: -111, y: -152}
+        - {x: -100, y: -156}
+        - {x: 100, y: -156}
+        - {x: 107, y: -154}
+        - {x: 123, y: -146}
+    - name: art_sprite_ui1_speech_thin_shout
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 250, y: 250, z: 250, w: 250}
+      outline:
+      - - {x: -125, y: -256}
+        - {x: -116, y: -256}
+        - {x: -11, y: -160}
+        - {x: 101, y: -256}
+        - {x: 105, y: -256}
+        - {x: 105, y: -252}
+        - {x: 89, y: -181}
+        - {x: 191, y: -256}
+        - {x: 199, y: -256}
+        - {x: 162, y: -169}
+        - {x: 256, y: -212}
+        - {x: 256, y: -204}
+        - {x: 172, y: -90}
+        - {x: 222, y: -112}
+        - {x: 256, y: -125}
+        - {x: 256, y: -118}
+        - {x: 171, y: -41}
+        - {x: 256, y: 99}
+        - {x: 256, y: 104}
+        - {x: 252, y: 104}
+        - {x: 256, y: 149}
+        - {x: 256, y: 200}
+        - {x: 158, y: 160}
+        - {x: 211, y: 253}
+        - {x: 211, y: 256}
+        - {x: 118, y: 256}
+        - {x: 11, y: 159}
+        - {x: -102, y: 256}
+        - {x: -105, y: 255}
+        - {x: -105, y: 251}
+        - {x: -89, y: 180}
+        - {x: -192, y: 256}
+        - {x: -202, y: 256}
+        - {x: -163, y: 167}
+        - {x: -256, y: 211}
+        - {x: -256, y: 205}
+        - {x: -242, y: 191}
+        - {x: -172, y: 89}
+        - {x: -222, y: 111}
+        - {x: -256, y: 124}
+        - {x: -256, y: 117}
+        - {x: -171, y: 40}
+        - {x: -256, y: -100}
+        - {x: -256, y: -105}
+        - {x: -252, y: -105}
+        - {x: -256, y: -150}
+        - {x: -256, y: -201}
+        - {x: -158, y: -161}
+        - {x: -211, y: -254}
+        - {x: -211, y: -256}
+        - {x: -206, y: -256}
+        - {x: -192, y: -242}
+        - {x: -90, y: -172}
+        - {x: -112, y: -222}
+    - name: art_sprite_ui1_speech_thin_tail
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1669
+        width: 309
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: -39.5}
+        - {x: 71.5, y: -21.5}
+        - {x: 56.5, y: 19.5}
+        - {x: 52.5, y: 52.5}
+        - {x: 54.5, y: 110.5}
+        - {x: 61.5, y: 148.5}
+        - {x: 66.5, y: 177.5}
+        - {x: 63.5, y: 178.5}
+        - {x: 60.5, y: 177.5}
+        - {x: 33.5, y: 108.5}
+        - {x: 19.5, y: 77.5}
+        - {x: -4.5, y: 36.5}
+        - {x: -33.5, y: -2.5}
+        - {x: -60.5, y: -27.5}
+        - {x: -83.5, y: -44.5}
+        - {x: -137.5, y: -61.5}
+        - {x: -154.5, y: -63.5}
+        - {x: -154.5, y: -189.5}
+        - {x: 154.5, y: -189.5}
+        - {x: 154.5, y: -63.5}
+        - {x: 113.5, y: -56.5}
+    - name: art_sprite_ui1_speech_fat_corner
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1124
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 41, z: 40, w: 39}
+      outline:
+      - - {x: -156, y: 156}
+        - {x: -156, y: -156}
+        - {x: 156, y: -156}
+        - {x: 156, y: 156}
+    - name: art_sprite_ui1_speech_fat_rounded
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1124
+        width: 312
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 85, y: 86, z: 85, w: 84}
+      outline:
+      - - {x: 132, y: -140}
+        - {x: 146, y: -123}
+        - {x: 149, y: -118}
+        - {x: 155, y: -106}
+        - {x: 156, y: -100}
+        - {x: 156, y: 101}
+        - {x: 152, y: 111}
+        - {x: 146, y: 123}
+        - {x: 139, y: 132}
+        - {x: 127, y: 143}
+        - {x: 118, y: 149}
+        - {x: 111, y: 152}
+        - {x: 102, y: 156}
+        - {x: -101, y: 156}
+        - {x: -111, y: 152}
+        - {x: -123, y: 146}
+        - {x: -132, y: 139}
+        - {x: -146, y: 123}
+        - {x: -152, y: 111}
+        - {x: -154, y: 106}
+        - {x: -156, y: 100}
+        - {x: -156, y: -102}
+        - {x: -147, y: -123}
+        - {x: -132, y: -140}
+        - {x: -123, y: -146}
+        - {x: -111, y: -152}
+        - {x: -100, y: -156}
+        - {x: 100, y: -156}
+        - {x: 107, y: -154}
+        - {x: 123, y: -146}
+    - name: art_sprite_ui1_speech_fat_shout
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 250, y: 250, z: 250, w: 250}
+      outline:
+      - - {x: -13, y: -160}
+        - {x: 99, y: -256}
+        - {x: 103, y: -256}
+        - {x: 103, y: -252}
+        - {x: 99, y: -194}
+        - {x: 189, y: -256}
+        - {x: 202, y: -256}
+        - {x: 154, y: -164}
+        - {x: 256, y: -214}
+        - {x: 256, y: -207}
+        - {x: 170, y: -90}
+        - {x: 220, y: -111}
+        - {x: 256, y: -126}
+        - {x: 256, y: -121}
+        - {x: 254, y: -118}
+        - {x: 161, y: 19}
+        - {x: 255, y: 101}
+        - {x: 254, y: 104}
+        - {x: 250, y: 104}
+        - {x: 256, y: 183}
+        - {x: 256, y: 195}
+        - {x: 255, y: 197}
+        - {x: 209, y: 256}
+        - {x: 201, y: 256}
+        - {x: 102, y: 162}
+        - {x: 123, y: 256}
+        - {x: 116, y: 256}
+        - {x: 9, y: 159}
+        - {x: -76, y: 211}
+        - {x: -104, y: 256}
+        - {x: -107, y: 255}
+        - {x: -107, y: 251}
+        - {x: -91, y: 180}
+        - {x: -194, y: 256}
+        - {x: -203, y: 256}
+        - {x: -161, y: 165}
+        - {x: -255, y: 209}
+        - {x: -256, y: 209}
+        - {x: -256, y: 203}
+        - {x: -244, y: 191}
+        - {x: -174, y: 89}
+        - {x: -224, y: 111}
+        - {x: -256, y: 123}
+        - {x: -256, y: 116}
+        - {x: -173, y: 40}
+        - {x: -256, y: -99}
+        - {x: -256, y: -106}
+        - {x: -200, y: -136}
+        - {x: -256, y: -190}
+        - {x: -256, y: -197}
+        - {x: -252, y: -196}
+        - {x: -164, y: -164}
+        - {x: -214, y: -256}
+        - {x: -207, y: -256}
+        - {x: -106, y: -163}
+        - {x: -127, y: -256}
+        - {x: -118, y: -256}
+    - name: art_sprite_ui1_speech_fat_tail
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1178
+        width: 309
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: -50}
+        - {x: 56.5, y: 9}
+        - {x: 52.5, y: 42}
+        - {x: 54.5, y: 100}
+        - {x: 61.5, y: 138}
+        - {x: 66.5, y: 167}
+        - {x: 63.5, y: 168}
+        - {x: 60.5, y: 167}
+        - {x: 33.5, y: 98}
+        - {x: 19.5, y: 67}
+        - {x: -33.5, y: -13}
+        - {x: -83.5, y: -55}
+        - {x: -137.5, y: -72}
+        - {x: -154.5, y: -74}
+        - {x: -154.5, y: -179}
+        - {x: 154.5, y: -179}
+        - {x: 154.5, y: -74}
+        - {x: 113.5, y: -67}
+    - name: art_sprite_ui1_background_button
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 436, y: 151, z: 40, w: 68}
+      outline:
+      - - {x: -256, y: 256}
+        - {x: -256, y: -256}
+        - {x: 256, y: -256}
+        - {x: 256, y: 256}
+    - name: art_sprite_ui1_border_fat
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 66, z: 69, w: 66}
+      outline:
+      - - {x: 244, y: -252}
+        - {x: 253, y: -243}
+        - {x: 255, y: -238}
+        - {x: 256, y: -235}
+        - {x: 256, y: 238}
+        - {x: 252, y: 247}
+        - {x: 246, y: 253}
+        - {x: 239, y: 256}
+        - {x: -240, y: 256}
+        - {x: -247, y: 253}
+        - {x: -253, y: 246}
+        - {x: -255, y: 244}
+        - {x: -256, y: 241}
+        - {x: -256, y: -240}
+        - {x: -255, y: -243}
+        - {x: -246, y: -252}
+        - {x: -245, y: -252}
+        - {x: -241, y: -255}
+        - {x: -239, y: -255}
+        - {x: -237, y: -256}
+        - {x: 236, y: -256}
+        - {x: 237, y: -255}
+        - {x: 241, y: -254}
+      - - {x: -186, y: -211}
+        - {x: -194, y: -211}
+        - {x: -195, y: -210}
+        - {x: -200, y: -209}
+        - {x: -202, y: -207}
+        - {x: -203, y: -207}
+        - {x: -208, y: -202}
+        - {x: -208, y: -201}
+        - {x: -212, y: -193}
+        - {x: -212, y: -186}
+        - {x: -213, y: -185}
+        - {x: -213, y: 194}
+        - {x: -212, y: 195}
+        - {x: -211, y: 200}
+        - {x: -209, y: 202}
+        - {x: -209, y: 203}
+        - {x: -204, y: 208}
+        - {x: -203, y: 208}
+        - {x: -195, y: 212}
+        - {x: -188, y: 212}
+        - {x: -187, y: 213}
+        - {x: 188, y: 213}
+        - {x: 189, y: 212}
+        - {x: 199, y: 210}
+        - {x: 201, y: 208}
+        - {x: 202, y: 208}
+        - {x: 207, y: 203}
+        - {x: 207, y: 202}
+        - {x: 211, y: 194}
+        - {x: 211, y: 190}
+        - {x: 213, y: 188}
+        - {x: 213, y: -189}
+        - {x: 212, y: -190}
+        - {x: 210, y: -198}
+        - {x: 208, y: -200}
+        - {x: 208, y: -201}
+        - {x: 202, y: -207}
+        - {x: 201, y: -207}
+        - {x: 197, y: -210}
+        - {x: 195, y: -210}
+        - {x: 194, y: -211}
+        - {x: 189, y: -211}
+        - {x: 186, y: -213}
+        - {x: -184, y: -213}
+        - {x: -184, y: -212}
+      - - {x: -251, y: 251}
+        - {x: -248, y: 252}
+        - {x: -248, y: 256}
+        - {x: -253, y: 256}
+        - {x: -253, y: 253}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

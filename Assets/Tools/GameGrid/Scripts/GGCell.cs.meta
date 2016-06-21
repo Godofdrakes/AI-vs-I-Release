@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1975a48155828b441b973793e44e036c
+labels:
+- Game
+- Grid
+- AStar
+- Pathfinding
+- A*
+- 2D
+- 3D
+- GameGrid
+- Inspector
+- Custom
+- Path
+- PathFinding
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 2a2d6df46f7e533459207dc31829c773
+timeCreated: 1458258594
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: art_sprite_pallet_swatches_player_blue
+    21300002: art_sprite_pallet_swatches_player_green
+    21300004: art_sprite_pallet_swatches_player_yellow
+    21300006: art_sprite_pallet_swatches_player_orange
+    21300008: art_sprite_pallet_swatches_player_red
+    21300010: art_sprite_pallet_swatches_player_purple
+    21300012: art_sprite_pallet_swatches_ai_blue
+    21300014: art_sprite_pallet_swatches_ai_green
+    21300016: art_sprite_pallet_swatches_ai_yellow
+    21300018: art_sprite_pallet_swatches_ai_brown
+    21300020: art_sprite_pallet_swatches_ai_red
+    21300022: art_sprite_pallet_swatches_ai_purple
+    21300024: art_sprite_pallet_swatches_infected_orange
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: art_sprite_pallet_swatches_player_blue
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2456
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.95879, y: 159.2085}
+        - {x: -158.95879, y: -158.7915}
+        - {x: 159.04121, y: -158.7915}
+        - {x: 159.04121, y: 159.2085}
+    - name: art_sprite_pallet_swatches_player_green
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2438
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.75092, y: 159.0376}
+        - {x: -158.75092, y: -158.9624}
+        - {x: 160.24908, y: -158.9624}
+        - {x: 160.24908, y: 159.0376}
+    - name: art_sprite_pallet_swatches_player_yellow
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1821
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.75273, y: 159.12366}
+        - {x: -158.75273, y: -158.87634}
+        - {x: 159.24727, y: -158.87634}
+        - {x: 159.24727, y: 159.12366}
+    - name: art_sprite_pallet_swatches_player_orange
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1827
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.7685, y: 160.34729}
+        - {x: -158.7685, y: -158.65271}
+        - {x: 159.2315, y: -158.65271}
+        - {x: 159.2315, y: 160.34729}
+    - name: art_sprite_pallet_swatches_player_red
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1229
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -159.18484, y: 160.22485}
+        - {x: -159.18484, y: -158.77515}
+        - {x: 159.81516, y: -158.77515}
+        - {x: 159.81516, y: 160.22485}
+    - name: art_sprite_pallet_swatches_player_purple
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1235
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.80365, y: 159.94849}
+        - {x: -158.80365, y: -159.05151}
+        - {x: 159.19635, y: -159.05151}
+        - {x: 159.19635, y: 159.94849}
+    - name: art_sprite_pallet_swatches_ai_blue
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2439
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.87878, y: 160.1582}
+        - {x: -158.87878, y: -158.8418}
+        - {x: 159.12122, y: -158.8418}
+        - {x: 159.12122, y: 160.1582}
+    - name: art_sprite_pallet_swatches_ai_green
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 2433
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.60059, y: 160.43457}
+        - {x: -158.60059, y: -158.56543}
+        - {x: 160.39941, y: -158.56543}
+        - {x: 160.39941, y: 160.43457}
+    - name: art_sprite_pallet_swatches_ai_yellow
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1827
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.62, y: 160.34729}
+        - {x: -158.62, y: -158.65271}
+        - {x: 160.38, y: -158.65271}
+        - {x: 160.38, y: 160.34729}
+    - name: art_sprite_pallet_swatches_ai_brown
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1833
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.73877, y: 160.07092}
+        - {x: -158.73877, y: -158.92908}
+        - {x: 160.26123, y: -158.92908}
+        - {x: 160.26123, y: 160.07092}
+    - name: art_sprite_pallet_swatches_ai_red
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1244
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.81091, y: 159.03394}
+        - {x: -158.81091, y: -158.96606}
+        - {x: 159.18909, y: -158.96606}
+        - {x: 159.18909, y: 159.03394}
+    - name: art_sprite_pallet_swatches_ai_purple
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1244
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -159.15332, y: 159.03394}
+        - {x: -159.15332, y: -158.96606}
+        - {x: 159.84668, y: -158.96606}
+        - {x: 159.84668, y: 159.03394}
+    - name: art_sprite_pallet_swatches_infected_orange
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 312
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158.85754, y: 160.12909}
+        - {x: -158.85754, y: -158.87091}
+        - {x: 160.14246, y: -158.87091}
+        - {x: 160.14246, y: 160.12909}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

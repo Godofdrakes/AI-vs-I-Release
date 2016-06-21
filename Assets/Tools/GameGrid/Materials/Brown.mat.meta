@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 24e0331db321e664dbd5bfc7197b5925
+labels:
+- Game
+- Grid
+- AStar
+- Pathfinding
+- A*
+- 2D
+- 3D
+- GameGrid
+- Inspector
+- Custom
+- Path
+- PathFinding
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

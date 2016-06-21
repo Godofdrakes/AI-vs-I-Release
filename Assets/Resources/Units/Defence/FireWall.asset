@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bae9a4272ae82242a954a9d601e0ad8, type: 3}
+  m_Name: FireWall
+  m_EditorClassIdentifier: 
+  m_unitDefinition:
+    m_name: Fire Wall
+    m_artBundle: {fileID: 11400000, guid: 60929a6b836b69544960ea1af29dabda, type: 2}
+    m_modules:
+    - {fileID: 11400000, guid: 3069d46bd570fc34c8cf9e1fae39c184, type: 2}
+    - {fileID: 11400000, guid: 3069d46bd570fc34c8cf9e1fae39c184, type: 2}
+    - {fileID: 11400000, guid: 3069d46bd570fc34c8cf9e1fae39c184, type: 2}
+    - {fileID: 11400000, guid: 662ca2ab01d05e541a9559280b94cf80, type: 2}
+    - {fileID: 11400000, guid: 6ace1141fc7d1eb42aecb2869fdbe3ad, type: 2}

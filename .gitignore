@@ -28,3 +28,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# 3rd Party Assets
+/Assets/Tools/**/*.*
+!/Assets/Tools/**/*.meta
